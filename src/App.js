@@ -25,6 +25,7 @@ class App extends Component {
           </a>
         </header>
       </div>
+      <div>Here is a link to different page <a href="https://google.com">Google</a></div>
     );
   }
 }
