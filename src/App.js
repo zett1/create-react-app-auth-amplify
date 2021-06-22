@@ -21,11 +21,10 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React ZK
           </a>
         </header>
       </div>
-      <div>Here is a link to different page <a href="https://google.com">Google</a></div>
     );
   }
 }
