@@ -43,6 +43,8 @@ appboy.initialize('a3f337f6-a52f-400b-b0a7-57028f1b2800', {
 appboy.display.automaticallyShowNewInAppMessages();
 
 // optionally set the current user's External ID
+var userIdentifier = 123456;
+var isLoggedIn = true;
 if (isLoggedIn){
     appboy.changeUser(userIdentifier);
 }
